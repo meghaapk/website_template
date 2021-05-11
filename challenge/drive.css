@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+
+.logo1{
+    transition:ease 1s;
+    width: 250px;
+    height: 60px;
+    padding-top: 0%;
+    padding-left: 39%;
+}
+
+.logo2{
+    transition:ease 1s;
+    width:450px;
+    height: 150px;
+    padding-left: 32%;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 67, 112);
+    
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+}
+
+h3{
+    transition: ease-in 0.5;
+    font-size: 25px;
+    font-weight: 100;
+    color: rgb(196, 29, 0);
+    background-color: rgb(255, 255, 255);
+}
+h4{
+    font-size: 20px;
+    color: rgb(43, 8, 122);
+}
+
+body{
+    background-image: repeating-linear-gradient(45deg, rgba(0,0,0,0.05) 0px, rgba(0,0,0,0.05) 2px,transparent 2px, transparent 4px),linear-gradient(90deg, rgb(255,229,96),rgb(219, 239, 242));
+}
+
+button{
+    color: rgb(220, 200, 20);
+    text-shadow: darkred;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+}
